@@ -52,4 +52,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jungprajal&" alt="jungprajal" /></p>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JungPrajal/snk/output/github-snake.svg)
