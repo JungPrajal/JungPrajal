@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: JungPrajal/snk@master
         with:
           github_user_name: ${{ github.JungPrajal }}
           outputs: dist/output/github-snake.svg
