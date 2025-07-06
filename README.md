@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jkfornax" target="blank"><img src="https://img.shields.io/twitter/follow/jkfornax?logo=twitter&style=for-the-badge" alt="jkfornax" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Numpy**
+- 🌱 I’m currently learning **Python, Numpy, Django**
 
 - 📫 How to reach me **prajaljungkunwar@gmail.com**
 
